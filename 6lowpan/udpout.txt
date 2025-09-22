@@ -1,0 +1,10 @@
+Pkt_delivery_ratio: 		93.7689
+Delay: 				0.00331498
+Throughput: 			2828544
+Jitter: 			0.0355846
+No of Pkts Dropped 		185
+Dropping_Ratio: 		6.23105
+Total_Energy_Consumption: 	132.319
+Avg_Energy_Consumption: 	26.4638
+Overall Residual Energy: 	52.5211
+Avg Residual Energy: 		10.5042
